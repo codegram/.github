@@ -8,6 +8,13 @@ assignees: ""
 
 ## 🐞 Bug Report
 
+### Steps to reproduce
+
+How can we reproduce the bug? Example:
+- Go here
+- Go there
+- Click there
+
 ### Current Behavior
 
 Which broken behavior are you experiencing?
